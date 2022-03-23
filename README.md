@@ -1,4 +1,3 @@
-# Thuc_tap_co_so_nganh
 # Nhóm 7
 1. Nguyễn Minh Đức
 2. Đặng Quốc Việt
